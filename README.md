@@ -1,4 +1,4 @@
-# skolkovo
+# PostList (Vue.jS practice)
 
 ## Project setup
 ```
