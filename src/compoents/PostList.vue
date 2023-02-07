@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import PostItem from '@/compoents/PostItem.vue';
+
 export default {
     props: {
         posts: {
@@ -15,7 +15,8 @@ export default {
             required: true,
         },
     },
-    components: { PostItem }
+    
+    components: { PostItem },
 };
 </script>
 
